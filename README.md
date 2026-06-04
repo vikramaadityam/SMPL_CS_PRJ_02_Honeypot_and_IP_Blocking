@@ -293,4 +293,12 @@ This project was developed as a hands-on cybersecurity lab to demonstrate practi
 
 ---
 
+## Project Report
+
+A detailed report containing methodology, testing procedures, screenshots, findings, risk analysis, and remediation recommendations is available in the repository.
+
+📄 **Report:** `Project_Report/Deploying_honeypot_and_IP_blocking_project.pdf`
+
+---
+
 ### If you found this project useful, consider giving it a ⭐ on GitHub.
